@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @SamMans
-- 👀 I’m interested in autonomous mobile robot software and modeling applications
-- 📫 How to reach me : samermansour1994@gmail.com / samer.ahmed@eng.asu.edu.eg 
+- 👀 I’m interested in AI for Healthcare & Biological Applications, Probabilistic Modeling, and Intelligent Systems
+- 📫 How to reach me : samermansour1994@gmail.com / sa2930@bath.ac.uk / sama11@leicester.ac.uk, samer.ahmed@eng.asu.edu.eg 
